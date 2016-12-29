@@ -1,2 +1,3 @@
 # hello-world
-first repository,just for practice
+first repository；
+just for practice
